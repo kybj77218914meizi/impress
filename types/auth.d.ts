@@ -1,0 +1,5 @@
+interface Auth {
+}
+
+interface Session {
+}
